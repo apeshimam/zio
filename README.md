@@ -82,6 +82,7 @@ Want to see your company here? [Submit a PR](https://github.com/zio/zio/edit/mas
 * [Fugo.ai](https://www.fugo.ai)
 * [GrandParade](https://grandparade.co.uk)
 * [greyflower.media GmbH](https://greyflower.media)
+* [Glean](https://www.gleancompany.com)
 * [Hunters.AI](https://hunters.ai)
 * [iHeartRadio](https://www.iheart.com/)
 * [Investsuite](https://investsuite.com/)
